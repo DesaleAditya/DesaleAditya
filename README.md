@@ -20,9 +20,9 @@ I'm Aditya, And I enjoy learning new frameworks and languages.
 -->
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=default">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=shivamdesale13&count_private=true&show_icons=true&theme=default" />
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=DesaleAditya&count_private=true&show_icons=true&theme=default" />
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shivamdesale13&hide=php&theme=default" />
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=DesaleAditya&hide=php&theme=default" />
 </a>
 </div>
