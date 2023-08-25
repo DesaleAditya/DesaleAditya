@@ -5,15 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desaleaditya&label=Profile%20views&color=0e75b6&style=flat" alt="desaleaditya" /> </p>
 
-- 🔭 I’m currently working in **TCS**
+👋 Hello there! I'm Aditya Desale, a passionate ETL Developer turned aspiring Data Analyst. 🌟
 
-- 🌱 I’m currently learning **Deep Learning**
+🧑‍💻 Previously, I honed my technical skills and gained valuable insights while working at Tata Consultancy Services (TCS) as an ETL Developer. 🛠️ My time at TCS was filled with exciting challenges and rewarding experiences as I contributed to data integration and transformation, ensuring smooth data flows and high-quality insights.
 
-- 💬 Ask me about **Python, SQL, Machine Learning**
+📚 Currently, I'm on an exhilarating journey as I pursue my Master's degree in Big Data Analytics. 🎓 I'm diving deep into the world of data, equipping myself with advanced techniques to extract, analyze, and derive meaningful insights from vast datasets. 📊 My goal is to harness the power of data to make informed decisions and drive innovation.
 
-- 📫 How to reach me **adidesale1@gmail.com**
+🔍 When I'm not crunching numbers or coding, you can find me exploring the latest trends in the data landscape, experimenting with new tools, or simply enjoying a good cup of coffee while contemplating new data-driven possibilities. ☕
 
-- ⚡ Fun fact **Sarcastic**
+🌐 Let's connect and explore the fascinating realm of data together! Feel free to reach out via  LinkedIn, or email. I'm always excited to exchange ideas, collaborate on projects, and learn from fellow data enthusiasts.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
