@@ -1,6 +1,5 @@
 ![MasterHead](https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg)
 <h1 align="center">Hi 👋, I'm Aditya Desale</h1>
-<h3 align="center">A passionate ETL developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desaleaditya&label=Profile%20views&color=0e75b6&style=flat" alt="desaleaditya" /> </p>
