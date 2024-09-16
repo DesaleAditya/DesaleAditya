@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desaleaditya&label=Profile%20views&color=0e75b6&style=flat" alt="desaleaditya" /> </p>
 
-👋 Hello there! I'm Aditya Desale, a passionate ETL Developer turned aspiring Data Analyst. 🌟
+Hello there! I'm Aditya Desale, a passionate Data Engineer and Analyst with a focus on leveraging data to drive insights and efficiency. 🌟
 
-🧑‍💻 Previously, I honed my technical skills and gained valuable insights while working at Tata Consultancy Services (TCS) as an ETL Developer. 🛠️ My time at TCS was filled with exciting challenges and rewarding experiences as I contributed to data integration and transformation, ensuring smooth data flows and high-quality insights.
+🧑‍💻 I’ve had the opportunity to work with global organizations like Tata Consultancy Services (TCS), NBCUniversal, and the City of San Diego. At TCS, I specialized in ETL development, streamlining data pipelines and optimizing data flow for high-quality, actionable insights. My recent experiences have focused on automating ETL processes, enhancing cloud infrastructure, and building dynamic dashboards for real-time decision-making.
 
-📚 Currently, I'm on an exhilarating journey as I pursue my Master's degree in Big Data Analytics. 🎓 I'm diving deep into the world of data, equipping myself with advanced techniques to extract, analyze, and derive meaningful insights from vast datasets. 📊 My goal is to harness the power of data to make informed decisions and drive innovation.
+📚 Currently, I’m pursuing a Master’s in Big Data Analytics at San Diego State University, where I’m honing advanced skills in data engineering, analytics, and visualization. From creating ETL pipelines to integrating cloud solutions like AWS and Snowflake, I’m committed to using data to solve complex challenges and empower organizations with actionable insights.
 
-🔍 When I'm not crunching numbers or coding, you can find me exploring the latest trends in the data landscape, experimenting with new tools, or simply enjoying a good cup of coffee while contemplating new data-driven possibilities. ☕
+🔍 Outside of work, I love exploring the latest trends in data science, experimenting with new tools, and learning new techniques that push the boundaries of innovation. ☕ Whether it's coding, visualizing data, or diving into the intricacies of cloud technologies, I’m always eager to learn and collaborate.
 
-🌐 Let's connect and explore the fascinating realm of data together! Feel free to reach out via  LinkedIn, or email. I'm always excited to exchange ideas, collaborate on projects, and learn from fellow data enthusiasts.
+🌐 Let’s connect! I’m always excited to collaborate on data projects, exchange insights, and learn from fellow data enthusiasts. Reach out to me here on LinkedIn or via email—I’m ready to explore the world of data together!
 
 
 <h3 align="left">Connect with me:</h3>
