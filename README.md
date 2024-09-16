@@ -1,4 +1,4 @@
-![MasterHead](https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg)
+![MasterHead](https://drive.google.com/file/d/1v6j_Xv2SNBHnA09tMvzaCTmuTYom05Fi/view?usp=drive_link)
 <h1 align="center">Hi 👋, I'm Aditya Desale</h1>
 <img align="right" alt="Coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
