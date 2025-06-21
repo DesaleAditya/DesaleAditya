@@ -6,8 +6,6 @@
 
 Hello there! I'm Aditya Desale, a passionate Data Engineer and Analyst with a focus on leveraging data to drive insights and efficiency. 🌟
 
-🧑‍💻 I’ve had the opportunity to work with global organizations like Tata Consultancy Services (TCS), NBCUniversal, and the City of San Diego. At TCS, I specialized in ETL development, streamlining data pipelines and optimizing data flow for high-quality, actionable insights. My recent experiences have focused on automating ETL processes, enhancing cloud infrastructure, and building dynamic dashboards for real-time decision-making.
-
 📚 Currently, I’m pursuing a Master’s in Big Data Analytics at San Diego State University, where I’m honing advanced skills in data engineering, analytics, and visualization. From creating ETL pipelines to integrating cloud solutions like AWS and Snowflake, I’m committed to using data to solve complex challenges and empower organizations with actionable insights.
 
 🔍 Outside of work, I love exploring the latest trends in data science, experimenting with new tools, and learning new techniques that push the boundaries of innovation. ☕ Whether it's coding, visualizing data, or diving into the intricacies of cloud technologies, I’m always eager to learn and collaborate.
